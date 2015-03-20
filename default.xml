@@ -6,6 +6,7 @@
 
   <remote  name="blobs"
            fetch="https://github.com/TheMuppets" />
+           
   <remote  name="bitbucket"
            fetch="https://bitbucket.org/" />
            
