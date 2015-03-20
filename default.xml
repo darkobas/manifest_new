@@ -37,7 +37,7 @@
   </project>
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="android_art" remote="omnirom" revision="android-5.1" groups="pdk" />
+  <project path="art" name="darkobas/android_art" remote="github" revision="L1" groups="pdk" />
   <project path="bionic" name="android_bionic" remote="omnirom" revision="android-5.1" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" groups="pdk-cw-fs" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="omnirom" revision="android-5.1" groups="pdk-cw-fs"/>
@@ -377,7 +377,7 @@
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="omnirom" revision="android-5.1" groups="omap4" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="omnirom" revision="android-5.1" />
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="omnirom" revision="android-5.1" />
-  <project path="libcore" name="android_libcore" remote="omnirom" revision="android-5.1" groups="pdk" />
+  <project path="libcore" name="darkobas/android_libcore" remote="github" revision="L1" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/Apollo" name="android_packages_apps_Apollo" remote="omnirom" revision="android-5.1" />
@@ -412,7 +412,7 @@
   <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/OmniTorch" name="android_packages_apps_OmniTorch" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/OpenDelta" name="android_packages_apps_OpenDelta" remote="omnirom" revision="android-5.1" />
+  <project path="packages/apps/OpenDelta" name="darkobas/android_packages_apps_OpenDelta" remote="github" revision="L1" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/PerformanceControl" name="android_packages_apps_PerformanceControl" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
