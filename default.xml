@@ -297,7 +297,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" />
   <project path="frameworks/av" name="android_frameworks_av" remote="omnirom" revision="android-5.1-caf" groups="pdk" />
-  <project path="frameworks/base" name="darkobas/frameworks_base" remote="githbu" revision="L1" groups="pdk-cw-fs" />
+  <project path="frameworks/base" name="darkobas/frameworks_base" remote="github" revision="L1" groups="pdk-cw-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
