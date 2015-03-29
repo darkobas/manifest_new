@@ -408,6 +408,7 @@
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="omnirom" revision="android-5.1" />
+  <project path="packages/apps/RemixSettings" name="darkobas/android_packages_apps_RemixSettings" remote="github" revision="L1" />
   <project path="packages/apps/OmniGears" name="android_packages_apps_OmniGears" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/OmniTorch" name="android_packages_apps_OmniTorch" remote="omnirom" revision="android-5.1" />
@@ -418,7 +419,7 @@
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="android_packages_apps_QuickSearchBox" remote="omnirom" revision="android-5.1" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="omnirom" revision="android-5.1" />
+  <project path="packages/apps/Settings" name="darkobas/android_packages_apps_Settings" remote="github" revision="L1" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
