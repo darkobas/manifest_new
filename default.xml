@@ -25,7 +25,7 @@
            review="gerrit.omnirom.org"
            fetch="https://github.com/omnirom" />
 
-  <default revision="refs/tags/android-5.1.1_r5"
+  <default revision="refs/tags/android-5.1.1_r13"
            remote="aosp"
            sync-c="true"
            sync-j="4" />
@@ -417,7 +417,7 @@
   <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/OmniTorch" name="android_packages_apps_OmniTorch" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/OpenDelta" name="darkobas/android_packages_apps_OpenDelta" remote="github" revision="L1" />
+  <project path="packages/apps/OpenDelta" name="darkobas/android_packages_apps_OpenDelta" remote="github" revision="L2" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/PerformanceControl" name="android_packages_apps_PerformanceControl" remote="omnirom" revision="android-5.1" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
