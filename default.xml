@@ -37,7 +37,7 @@
   </project>
 
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
-  <project path="art" name="android_art" remote="github" revision="L1" groups="pdk" />
+  <project path="art" name="darkobas/android_art" remote="github" revision="L2" groups="pdk" />
   <project path="bionic" name="android_bionic" remote="omnirom" revision="android-5.1" groups="pdk" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="omnirom" revision="android-5.1" groups="pdk-cw-fs"/>
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
@@ -332,7 +332,7 @@
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" />
   <project path="frameworks/support" name="android_frameworks_support" remote="omnirom" revision="android-5.1" />
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs" />
-  <project path="frameworks/webview" name="darkbas/android_frameworks_webview" remote="github" revision="L1" groups="pdk-cw-fs" />
+  <project path="frameworks/webview" name="darkobas/android_frameworks_webview" remote="github" revision="L1" groups="pdk-cw-fs" />
   <project path="frameworks/wilhelm" name="android_frameworks_wilhelm" remote="omnirom" revision="android-5.1" />
   <project path="hardware/akm" name="platform/hardware/akm" />
   <project path="hardware/broadcom/libbt" name="android_hardware_broadcom_libbt" remote="omnirom" revision="android-5.1" groups="pdk" />
