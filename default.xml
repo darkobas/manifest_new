@@ -23,7 +23,7 @@
 
   <remote  name="omnirom"
            review="gerrit.omnirom.org"
-           fetch="https://github.com/omnirom" />
+           fetch="git://github.com/omnirom" />
 
   <default revision="refs/tags/android-5.1.1_r18"
            remote="aosp"
