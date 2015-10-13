@@ -7,8 +7,8 @@
   <remote  name="github"
            fetch="https://github.com/" />
 
-  <remote  name="cm"                                                                                                                                                              
-           fetch="git://github.com"                                                                                                                                               
+  <remote  name="cm"
+           fetch="git://github.com"
            review="review.cyanogenmod.org" />
 
   <remote  name="aosp"
@@ -57,7 +57,7 @@
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
-  <project path="device/qcom/sepolicy" name="darkobas/android_device_qcom_sepolicy" remote="github" revision="M" groups="pdk" />
+  <project path="device/qcom/sepolicy" name="darkobas/android_device_qcom_sepolicy" remote="github" revision="M" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
